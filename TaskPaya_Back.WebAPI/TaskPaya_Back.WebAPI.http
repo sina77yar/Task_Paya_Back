@@ -1,0 +1,6 @@
+@TaskPaya_Back.WebAPI_HostAddress = http://localhost:5286
+
+GET {{TaskPaya_Back.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
